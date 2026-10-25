@@ -1,0 +1,1770 @@
+{
+  "version": 1,
+  "approved": [],
+  "noindex": [
+    {
+      "path": "webpages/exterior-siding-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-inspection-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-damage-assessment-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-panel-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-panel-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/partial-siding-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/full-siding-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/old-siding-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/damaged-siding-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cracked-siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/split-siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/warped-siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/loose-siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/missing-siding-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rotted-siding-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/moisture-damaged-siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/water-damaged-siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/storm-damaged-siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-leak-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-caulking-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-sealing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-flashing-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-corner-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-around-windows-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-around-doors-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-replacement-around-windows-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-replacement-around-doors-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wood-siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wood-siding-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wood-siding-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fiber-cement-siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fiber-cement-siding-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/vinyl-siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/vinyl-siding-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-stripping-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-preparation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-priming-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-repainting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-staining-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-color-change-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-siding-maintenance-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-siding-weatherproofing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-wall-weatherproofing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-moisture-protection-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-water-intrusion-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-inspection-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/new-window-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/single-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/multiple-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/whole-house-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/broken-window-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/broken-window-glass-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cracked-window-glass-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-seal-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-air-leak-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-water-leak-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/leaking-window-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-weatherproofing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-weatherstripping-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-caulking-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-recaulking-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-flashing-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-frame-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rotted-window-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rotted-window-frame-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/warped-window-frame-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/damaged-window-sill-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-insulation-improvements-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/energy-efficient-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/double-pane-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/triple-pane-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/insulated-glass-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/noise-reducing-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/street-noise-reduction-windows-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/traffic-noise-reduction-windows-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sound-insulating-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-privacy-glass-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-lock-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-hardware-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-balance-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-operating-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sticking-window-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-screen-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-screen-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bay-window-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/picture-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/casement-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/double-hung-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bedroom-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-replacement-for-drafts-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-replacement-for-noise-problems-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-replacement-for-energy-savings-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/new-sliding-glass-doors-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-glass-door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-glass-door-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-patio-door-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-glass-door-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/broken-sliding-door-glass-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cracked-patio-door-glass-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-glass-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rotted-sliding-door-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-sill-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-track-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-track-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-roller-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-roller-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-adjustment-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sticking-sliding-glass-door-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dragging-sliding-door-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-that-will-not-open-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-that-will-not-close-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-lock-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-lock-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-handle-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-latch-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-weatherstripping-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-draft-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-leak-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-threshold-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-threshold-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-flashing-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-caulking-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-patio-door-weatherproofing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/energy-efficient-sliding-door-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/noise-reducing-sliding-door-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-screen-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-screen-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/water-damage-around-sliding-doors-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rot-damage-around-sliding-doors-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-replacement-for-older-homes-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-door-replacement-for-damaged-frames-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/full-kitchen-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-upgrades-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/outdated-kitchen-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/small-kitchen-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-layout-updates-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-layout-reconfiguration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-cabinet-removal-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-cabinet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-cabinet-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-cabinet-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-countertop-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-countertop-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-backsplash-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-backsplash-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-sink-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-faucet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-sink-and-faucet-coordination-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-appliance-layout-planning-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-appliance-hookup-coordination-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-floor-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-drywall-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-drywall-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-molding-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-door-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-finish-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-tile-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-wall-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-floor-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-lighting-upgrades-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-addition-planning-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-expansion-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-storage-improvements-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-finish-updates-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-refresh-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-remodel-for-home-sale-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-remodel-for-rental-property-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/full-bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-upgrades-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/outdated-bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/small-bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/master-bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/guest-bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-tub-removal-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-tub-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-shower-removal-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-shower-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/tub-to-shower-conversion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/walk-in-shower-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/low-threshold-shower-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/curbless-shower-conversion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-vanity-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-vanity-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-countertop-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-countertop-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-sink-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-faucet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-fixture-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-tile-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-wall-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-floor-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-shower-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-marble-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-tile-and-stone-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-waterproofing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-floor-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-drywall-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-drywall-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-molding-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-door-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-finish-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-ventilation-improvements-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-lighting-upgrades-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-leak-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-water-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-refresh-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-remodel-for-home-sale-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-remodel-for-rental-property-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/flooring-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/flooring-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/damaged-flooring-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/loose-flooring-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/floor-water-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-floor-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/residential-flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/floor-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/ceramic-floor-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/porcelain-floor-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/natural-stone-floor-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/marble-floor-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/tile-floor-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/tile-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/broken-tile-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/loose-tile-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cracked-tile-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wall-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/shower-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/backsplash-tile-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/threshold-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/non-slip-flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/slip-resistant-flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/trip-hazard-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/handyman-services-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/minor-home-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/general-home-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-home-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-maintenance-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/property-maintenance-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/residential-property-maintenance-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rental-property-maintenance-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-adjustment-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-hinge-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-lock-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-handle-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-latch-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-casing-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/baseboard-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/caulking-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/weatherstripping-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/small-paint-touch-ups-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-paint-touch-ups-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/minor-framing-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/shelving-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/built-in-shelving-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cabinet-hardware-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/light-fixture-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/grab-bar-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/handrail-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/floor-transition-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/seasonal-home-maintenance-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/residential-wear-and-tear-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drywall-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/new-drywall-hanging-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drywall-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drywall-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/ceiling-drywall-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wall-drywall-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/water-damaged-drywall-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/storm-damaged-drywall-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drywall-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drywall-remodeling-work-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drywall-repair-before-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drywall-repair-before-selling-a-home-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/finish-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-finish-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/finish-carpentry-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-framing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-framing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wall-framing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/partition-wall-framing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/structural-wall-framing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-frame-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-opening-framing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-opening-framing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-casing-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-casing-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-trim-work-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/trim-repair-and-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/molding-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-molding-work-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/crown-molding-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/baseboard-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wainscoting-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-finishing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/framing-for-remodels-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/framing-for-small-additions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/room-addition-framing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-addition-framing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-addition-framing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-layout-reconfiguration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/residential-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-wall-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-ceiling-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-door-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-trim-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/full-interior-paint-packages-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/whole-home-interior-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/single-room-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/multi-room-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/remodel-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/paint-touch-ups-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wall-paint-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/ceiling-paint-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/trim-paint-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/peeling-paint-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/damaged-paint-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/paint-preparation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/surface-preparation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-repainting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/general-contractor-services-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/residential-general-contracting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/residential-construction-services-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-remodeling-contractor-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-renovation-contractor-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/whole-home-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/whole-house-interior-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/multi-room-interior-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/single-room-interior-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-improvement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/room-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/room-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-upgrades-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-additions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/room-additions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/room-addition-planning-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-additions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-additions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/remodel-design-coordination-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/remodeling-estimates-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/residential-repair-estimates-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-finishing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-interior-finishing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-custom-design-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-drywall-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-door-frame-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-water-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-interior-upgrades-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-conversions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-interior-upgrades-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-wall-framing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-insulation-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-drywall-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-interior-finishing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-storage-improvements-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-conversion-planning-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/accessibility-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/disability-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/accessible-home-modifications-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/aging-in-place-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/senior-friendly-home-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/mobility-improvement-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fall-prevention-home-modifications-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/whole-home-accessibility-upgrades-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/barrier-free-home-modifications-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wheelchair-accessible-home-modifications-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/walker-friendly-home-modifications-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/accessible-bathroom-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/accessible-bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-accessibility-modifications-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/walk-in-tub-installation-coordination-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/shower-grab-bar-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/toilet-grab-bar-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-safety-rail-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/shower-seat-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fold-down-shower-seat-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/handheld-showerhead-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/adjustable-showerhead-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/comfort-height-toilet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/raised-toilet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/non-slip-bathroom-flooring-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/slip-resistant-shower-flooring-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/easy-grip-faucet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/lever-faucet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/accessible-vanity-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wheelchair-accessible-vanity-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-doorway-widening-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-threshold-removal-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/accessible-kitchen-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/senior-friendly-kitchen-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wheelchair-accessible-kitchen-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-clearance-improvements-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-pathway-widening-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/accessible-kitchen-layout-updates-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/soft-close-drawer-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/lever-style-kitchen-faucet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-task-lighting-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/under-cabinet-lighting-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/accessible-kitchen-outlet-placement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/non-slip-kitchen-flooring-hub.html",
+      "status": "needs_review"
+    }
+  ]
+}
