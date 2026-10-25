@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-25T00:27:57.446Z",
+  "generatedAt": "2026-10-25T00:28:59.231Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -51,6 +51,12 @@
       "platform": "github",
       "label": "GitHub repository",
       "url": "https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-eh9q"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/city-dweller-llc-ai-schemas-eh9q/ai-data.html"
     },
     {
       "role": "same-as",
@@ -141,7 +147,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-eh9q",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/city-dweller-llc-ai-schemas-eh9q/",
       "repo": "AIOVisibilityHub/city-dweller-llc-ai-schemas-eh9q"
     }
   }

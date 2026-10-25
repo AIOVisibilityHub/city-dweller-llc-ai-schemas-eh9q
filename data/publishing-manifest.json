@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-25T00:27:57.575Z",
+  "generatedAt": "2026-10-25T00:28:59.376Z",
   "client": {
     "name": "City Dweller, LLC",
     "canonicalUrl": "https://citydweller.aiovisibility.net",
@@ -500,7 +500,7 @@
   },
   "package": {
     "totalFiles": 6701,
-    "totalBytes": 20871460,
+    "totalBytes": 20838009,
     "stats": {
       "faqs": 6655,
       "helpArticles": 0,
@@ -33947,37 +33947,37 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 16644,
+        "bytes": 11517,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 94614,
+        "bytes": 89627,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 363925,
+        "bytes": 358736,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 26195,
+        "bytes": 21410,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 15300,
+        "bytes": 10440,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 4301637,
+        "bytes": 4296747,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 16412,
+        "bytes": 11574,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -33989,7 +33989,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 15941,
+        "bytes": 16073,
         "purpose": "LLM hint"
       },
       {
@@ -34009,32 +34009,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 5297,
+        "bytes": 5580,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 3139265,
+        "bytes": 3139547,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 850142,
+        "bytes": 850274,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 850142,
+        "bytes": 850274,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 15934,
+        "bytes": 16066,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 1122027,
+        "bytes": 1122159,
         "purpose": "Repository README"
       },
       {
@@ -34052,7 +34052,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-eh9q",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/city-dweller-llc-ai-schemas-eh9q/",
       "repo": "AIOVisibilityHub/city-dweller-llc-ai-schemas-eh9q"
     }
   }

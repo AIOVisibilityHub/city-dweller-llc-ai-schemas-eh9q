@@ -17,6 +17,7 @@ Package contents:
 - [canonical] City Dweller, LLC — canonical website — https://citydweller.aiovisibility.net
 - [ai-data-hub] City Dweller, LLC — AI Data Hub — https://citydweller.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-eh9q
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/city-dweller-llc-ai-schemas-eh9q/ai-data.html
 - [same-as] City Dweller, LLC on aiovisibility.net — https://aiovisibility.net/profiles/city-dweller-llc
 - [same-as] City Dweller, LLC on github.com — https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-an22
 - [same-as] City Dweller, LLC on nextdoor.com — https://nextdoor.com/pages/city-dweller-pacifica-ca-1
