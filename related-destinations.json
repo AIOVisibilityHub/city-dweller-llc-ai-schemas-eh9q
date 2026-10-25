@@ -1,0 +1,148 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-10-25T00:27:57.446Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "City Dweller, LLC",
+    "canonicalUrl": "https://citydweller.aiovisibility.net",
+    "primaryWebsiteUrl": "http://bayareacitydweller.com",
+    "aiDataHub": "https://citydweller.aiovisibility.net/ai-data.html",
+    "sameAs": [
+      "https://aiovisibility.net/profiles/city-dweller-llc",
+      "https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-an22",
+      "https://citydweller.aiovisibility.net",
+      "https://nextdoor.com/pages/city-dweller-pacifica-ca-1",
+      "https://city-dweller-llc-ai-schemas-h6q5-a497e1.gitlab.io",
+      "https://www.kaggle.com/datasets/aiovisibilityhub/city-dweller-llc-ai-schemas",
+      "https://www.linkedin.com/in/david-gohn-1791a413",
+      "https://www.yelp.com/biz/city-dweller-pacifica-5",
+      "https://www.mapquest.com/us/california/city-dweller-360135383",
+      "https://local.yahoo.com/info-169419265-city-dweller-pacifica",
+      "https://about.me/bayareacitydweller",
+      "https://bayareacitydweller.weebly.com",
+      "https://citylocalpro.com/biz/city-dweller",
+      "https://www.osogbo.com/home-services-and-tradesmen/city-dweller-llc",
+      "https://www.expertise.com/home-improvement/remodeling/california/san-francisco",
+      "https://www.townplanner.com/pacifica/ca/business",
+      "https://www.zoominfo.com/p/David-Gohn/-923725733",
+      "https://zenodo.org/records/23629416"
+    ]
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "City Dweller, LLC — canonical website",
+      "url": "https://citydweller.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "City Dweller, LLC — AI Data Hub",
+      "url": "https://citydweller.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-eh9q"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on aiovisibility.net",
+      "url": "https://aiovisibility.net/profiles/city-dweller-llc"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on github.com",
+      "url": "https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-an22"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on nextdoor.com",
+      "url": "https://nextdoor.com/pages/city-dweller-pacifica-ca-1"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on city-dweller-llc-ai-schemas-h6q5-a497e1.gitlab.io",
+      "url": "https://city-dweller-llc-ai-schemas-h6q5-a497e1.gitlab.io"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on kaggle.com",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/city-dweller-llc-ai-schemas"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on linkedin.com",
+      "url": "https://www.linkedin.com/in/david-gohn-1791a413"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on yelp.com",
+      "url": "https://www.yelp.com/biz/city-dweller-pacifica-5"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on mapquest.com",
+      "url": "https://www.mapquest.com/us/california/city-dweller-360135383"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on local.yahoo.com",
+      "url": "https://local.yahoo.com/info-169419265-city-dweller-pacifica"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on about.me",
+      "url": "https://about.me/bayareacitydweller"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on bayareacitydweller.weebly.com",
+      "url": "https://bayareacitydweller.weebly.com"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on citylocalpro.com",
+      "url": "https://citylocalpro.com/biz/city-dweller"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on osogbo.com",
+      "url": "https://www.osogbo.com/home-services-and-tradesmen/city-dweller-llc"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on expertise.com",
+      "url": "https://www.expertise.com/home-improvement/remodeling/california/san-francisco"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on townplanner.com",
+      "url": "https://www.townplanner.com/pacifica/ca/business"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on zoominfo.com",
+      "url": "https://www.zoominfo.com/p/David-Gohn/-923725733"
+    },
+    {
+      "role": "same-as",
+      "label": "City Dweller, LLC on zenodo.org",
+      "url": "https://zenodo.org/records/23629416"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-eh9q",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/city-dweller-llc-ai-schemas-eh9q"
+    }
+  }
+}
